@@ -1,0 +1,22 @@
+[
+  {
+    "id": "grifonya",
+    "title": "Grifonya SchoolBoy",
+    "version": "Версия 1.0",
+    "desc": "Захватывающее приключение школьника. Помогите Грифоне справиться со всеми школьными учебниками!",
+    "url": "https://mikheydazz.github.io/SchoolBoy/",
+    "iconUrl": "grifonya.png",
+    "backgroundImage": "",
+    "fallbackGradient": "linear-gradient(135deg, #1a2a6c, #11998e, #38ef7d)"
+  },
+  {
+    "id": "family",
+    "title": "Family vs Zombies",
+    "version": "Версия 1.1",
+    "desc": "Защитите свой дом от нашествия орд зомби! Используйте все доступные средства, чтобы выжить и спасти свою семью.",
+    "url": "https://mikheydazz.github.io/FamilyVsZombies/",
+    "iconUrl": "family.png",
+    "backgroundImage": "",
+    "fallbackGradient": "linear-gradient(135deg, #4b134f, #c94b4b, #4b134f)"
+  }
+]
