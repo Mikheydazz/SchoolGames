@@ -16,7 +16,7 @@
     "desc": "Защитите свой дом от нашествия орд зомби! Используйте все доступные средства, чтобы выжить и спасти свою семью.",
     "url": "https://mikheydazz.github.io/FamilyVsZombies/",
     "iconUrl": "family.png",
-    "backgroundImage": "",
+    "backgroundImage": "https://raw.githubusercontent.com/Mikheydazz/SchoolGames/main/fvz-bg-1.1.jpg",
     "fallbackGradient": "linear-gradient(135deg, #4b134f, #c94b4b, #4b134f)"
   }
 ]
