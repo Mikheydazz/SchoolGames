@@ -6,7 +6,7 @@
     "desc": "Захватывающее приключение школьника. Помогите Грифоне справиться со всеми школьными учебниками!",
     "url": "https://mikheydazz.github.io/SchoolBoy/",
     "iconUrl": "grifonya.png",
-    "backgroundImage": "",
+    "backgroundImage": "https://raw.githubusercontent.com/Mikheydazz/SchoolGames/main/gsb-bg-1.0.jpg",
     "fallbackGradient": "linear-gradient(135deg, #1a2a6c, #11998e, #38ef7d)"
   },
   {
