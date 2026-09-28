@@ -28,15 +28,5 @@
     "iconUrl": "https://raw.githubusercontent.com/Mikheydazz/SchoolGames/main/pecs.png",
     "backgroundImage": "https://raw.githubusercontent.com/Mikheydazz/SchoolGames/main/pks-bg-1.0.jpg",
     "fallbackGradient": "linear-gradient(135deg, #4b134f, #c94b4b, #4b134f)"
-  },
-  {
-    "id": "storyheroes",
-    "title": "StoryHeroes Impact",
-    "version": "Версия 1.0",
-    "desc": "Ремейк культовой карточной игры! Победишь всех врагов подземелья?",
-    "url": "https://mikheydazz.github.io/StoryHeroes-Impact/",
-    "iconUrl": "https://raw.githubusercontent.com/Mikheydazz/SchoolGames/main/storyheroes.png",
-    "backgroundImage": "https://raw.githubusercontent.com/Mikheydazz/SchoolGames/main/shi-bg-1.0.jpg",
-    "fallbackGradient": "linear-gradient(135deg, #4b134f, #c94b4b, #4b134f)"
   }
 ]
